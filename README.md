@@ -1,4 +1,8 @@
 # AI-Powered-Travel-Itinerary-Recommendation-System
+
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-blue?logo=streamlit)]( https://ai-powered-travel-itinerary-recommendation-system-43zftvat4rjo.streamlit.app/)
+
+
 The AI-Powered Travel Itinerary Recommendation System helps travelers generate personalized day-wise holiday plans based on their interests, trip duration, travel style, and destination preferences. It uses Machine Learning (TF-IDF Similarity) to match user interests with activity data and dynamically creates a travel itinerary.
 
 - Objective -

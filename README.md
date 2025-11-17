@@ -28,12 +28,13 @@ Calculates how closely the user interest matches each activity.
 
 
 - Output Generation
+  
 Filter activities based on selected destination
 Rank highest similarity first
 Select top activities = Days × 3
+
+
 - Arrange as a day-wise itinerary
-
-
 
 | Feature                 | Description                              |
 | ----------------------- | ---------------------------------------- |
@@ -45,6 +46,7 @@ Select top activities = Days × 3
 
 
 -Sample Output
+
 Input Example
 Interest: ❝Beaches, Nightlife❞
 Destination: Goa
